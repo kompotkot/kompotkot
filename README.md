@@ -1,6 +1,6 @@
 ## 🖥️ About me
 
--   Specializing in building resilient systems at the intersection of infrastructure, security, and automation.
+-   Specializing in building resilient infrastructure, implementing secure practices, and automating the service lifecycle.
 -   Skilled in designing and maintaining reliable cloud and hybrid environments.
 -   Experienced with high-load, large-scale Web3 and traditional backend systems.
 
